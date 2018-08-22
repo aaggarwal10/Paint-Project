@@ -11,4 +11,4 @@ In order to set it up please do the following:
 Extra Credits:
 I coded the entire thing; however, all the images, music, and GIFs belong to their rightful and artistic owners. Without those fantastic people, this project would not have been the way it is now and I thank them. 
 
-![One Piece Paint](https://raw.githubusercontent.com/aaggarwal10/Paint-Project/paint.JPG)
+![One Piece Paint](https://github.com/aaggarwal10/Paint-Project/blob/master/paint.JPG)
